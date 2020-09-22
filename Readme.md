@@ -2,6 +2,7 @@
 
 * Студент: [Александра  Рысина](https://up.htmlacademy.ru/htmlcss/29/user/1534917).
 * Наставник: [Алексей Пудников] (https://htmlacademy.ru/profile/id71418).
+* Наставник: [Пудников Алексей] (https://htmlacademy.ru/profile/id71418).
 
 ---
 
